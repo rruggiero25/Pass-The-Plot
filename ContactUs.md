@@ -9,7 +9,6 @@ Have questions, feedback, or just want to say hi? We'd love to hear from you.
 | | |
 |---|---|
 | **Email** | absoluteamapplication@gmail.com |
-| **GitHub** | [github.com/absoluteam](https://github.com/absoluteam) |
 
 ---
 
