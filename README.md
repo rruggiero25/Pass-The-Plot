@@ -145,6 +145,7 @@ Pass The Plot collects no personal data and requires no account. All communicati
 ## Made by
 
 **Absoluteam** — *Apple Developer Academy*
+
 Martina Bruno, Sana Ravan, Pouya Sanjari Farsipour, Shantia Azizian, Mohammad Masoumi, Raffaella Ruggiero.
 
 ---
