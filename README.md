@@ -79,9 +79,9 @@ WelcomeState
 ## Project Structure
 
 ```
-Lofi/
+passtheplot/
 ├── App/
-│   ├── LofiApp.swift              # Entry point, root view, state wiring
+│   ├── passtheplotApp.swift              # Entry point, root view, state wiring
 │   ├── AppModel.swift             # Shared observable state
 │   └── AppFlowStateMachine.swift  # GKStateMachine flow controller
 ├── Views/
@@ -128,7 +128,7 @@ Lofi/
    ```bash
    git clone https://github.com/absoluteam/pass-the-plot.git
    ```
-2. Open `Lofi.xcodeproj` in Xcode.
+2. Open `passtheplot.xcodeproj` in Xcode.
 3. Select your target device or simulator.
 4. Build and run (`⌘ + R`).
 
@@ -145,6 +145,7 @@ Pass The Plot collects no personal data and requires no account. All communicati
 ## Made by
 
 **Absoluteam** — *Apple Developer Academy*
+Martina Bruno, Sana Ravan, Pouya Sanjari Farsipour, Shantia Azizian, Mohammad Masoumi, Raffaella Ruggiero.
 
 ---
 
