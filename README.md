@@ -8,7 +8,7 @@ Built with ❤️ by **Absoluteam**
 
 ## What is Pass The Plot?
 
-Pass The Plot is a party game inspired by the telephone game mechanic of [Gartic Phone](https://garticphone.com/). Players take turns writing a story and drawing it — passing the chain around until nobody knows how it started. The final reveal is always chaotic, always hilarious.
+Pass The Plot is a party game. Players take turns writing a story and drawing it — passing the chain around until nobody knows how it started. The final reveal is always chaotic, always hilarious.
 
 No accounts. No internet. Just devices, creativity, and chaos.
 
@@ -138,7 +138,7 @@ passtheplot/
 
 ## Privacy
 
-Pass The Plot collects no personal data and requires no account. All communication is local and encrypted. See [PRIVACY_POLICY.md](./PRIVACY_POLICY.md) for full details.
+Pass The Plot collects no personal data and requires no account. All communication is local and encrypted. See [PrivacyPolicy.md](./PrivacyPolicy.md) for full details.
 
 ---
 
